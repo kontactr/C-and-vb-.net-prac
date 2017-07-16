@@ -1,0 +1,10 @@
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+E:\C-and-vb-.net-prac\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
